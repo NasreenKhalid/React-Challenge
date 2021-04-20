@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yishaq13/React-Challenge.git/static/css/main.a2e18a74.chunk.css",
+    "main.js": "/Yishaq13/React-Challenge.git/static/js/main.95f128a8.chunk.js",
+    "main.js.map": "/Yishaq13/React-Challenge.git/static/js/main.95f128a8.chunk.js.map",
+    "runtime-main.js": "/Yishaq13/React-Challenge.git/static/js/runtime-main.2f044bf3.js",
+    "runtime-main.js.map": "/Yishaq13/React-Challenge.git/static/js/runtime-main.2f044bf3.js.map",
+    "static/js/2.0213aa97.chunk.js": "/Yishaq13/React-Challenge.git/static/js/2.0213aa97.chunk.js",
+    "static/js/2.0213aa97.chunk.js.map": "/Yishaq13/React-Challenge.git/static/js/2.0213aa97.chunk.js.map",
+    "static/js/3.6849ae36.chunk.js": "/Yishaq13/React-Challenge.git/static/js/3.6849ae36.chunk.js",
+    "static/js/3.6849ae36.chunk.js.map": "/Yishaq13/React-Challenge.git/static/js/3.6849ae36.chunk.js.map",
+    "index.html": "/Yishaq13/React-Challenge.git/index.html",
+    "static/css/main.a2e18a74.chunk.css.map": "/Yishaq13/React-Challenge.git/static/css/main.a2e18a74.chunk.css.map",
+    "static/js/2.0213aa97.chunk.js.LICENSE.txt": "/Yishaq13/React-Challenge.git/static/js/2.0213aa97.chunk.js.LICENSE.txt",
+    "static/media/logohere.3432485e.png": "/Yishaq13/React-Challenge.git/static/media/logohere.3432485e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f044bf3.js",
+    "static/js/2.0213aa97.chunk.js",
+    "static/css/main.a2e18a74.chunk.css",
+    "static/js/main.95f128a8.chunk.js"
+  ]
+}
