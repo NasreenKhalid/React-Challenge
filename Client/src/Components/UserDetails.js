@@ -1,5 +1,6 @@
 import React from 'react';
 import {NetworkStatus, useQuery, gql} from "@apollo/client";
+import PropTypes from 'prop-types'
 
 
 const USER_DETAIL = gql`
@@ -17,10 +18,14 @@ query($id: Int!){
 function UserDetails(props){
 
     //Pass the id to the Query to fetch details of the related Album
-    const id = null
+      // const id = UserDetails.id
+
+  UserDetails.propTypes = {
+        id: PropTypes.string.isRequired
+    }
 
     const{data, loading, error, networkStatus} = useQuery(USER_DETAIL,{
-        variables: {id},
+        variables: {id: this.props.id},
         fetchPolicy: 'cache-and-network',
         notifyOnNetworkStatusChange: true,
     })
